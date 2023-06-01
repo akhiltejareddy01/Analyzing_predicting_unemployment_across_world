@@ -44,4 +44,6 @@ This marks the completion of 70% of the project.Working on the hypotheses. This 
 
 **3. Forecasting using machine learning models.** 
 
-This marks the completion of the entire project. With this future year's unemployment rate of every year starting from 2022 to 2030 is predicted and forecasted. Using a regression model, the target variable(2021) is predicted and new countries data can be given in order to see the performance of the 2021 years data
+This marks the completion of the entire project. With this future year's unemployment rate of every year starting from 2022 to 2030 is predicted and forecasted. Using a regression model, the target variable(2021) is predicted and new countries data can be given in order to see the performance of the 2021 years data.
+
+# **links:https://medium.com/@yvakhilteja4503/analyzing-and-forecasting-unemployment-across-the-world-7f93f5b9aae3**
